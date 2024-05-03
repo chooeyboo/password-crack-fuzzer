@@ -8,7 +8,7 @@ Group: Minasha Gunarathna and Chris Wang
 
 Dependencies: Python 3.
 
-Download the repository, open a terminal in the directory of the downloaded repo, and run `python3 fuzzer.py`.
+Download the repository, open a terminal in the directory of the downloaded repo, and run `python3 fuzzer.py`. The password cracking python script is included in this repository for your convenience.
 
 ## Warning
 
