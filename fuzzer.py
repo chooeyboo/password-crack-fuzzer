@@ -21,7 +21,7 @@ def run_command(password, argument):
 # Main function
 def main():
     argument = input("What function would you like to test? Enter -p for plaintext brute force, -d for dictionary, -m for MD5, and -s for SHA-256 ")
-    print("Starting testing now. Use Ctrl+C (Windows) or Ctrl+Z (macOS) to terminate program.")
+    print("Starting testing now. Use Ctrl+C (Windows) or Cmd+Z (macOS) to terminate program.")
     passwords = generate_passwords()
     for password in passwords:
         run_command(password, argument)
