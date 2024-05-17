@@ -3,6 +3,7 @@
 This simple Python script is a fuzzer for a password cracking tool that allows users to guess passwords using brute-force and dictionary attacks. The tool can be used to run the password cracking script over and over again to test for bugs.
 
 Group: Minasha Gunarathna and Chris Wang
+
 Presentation: https://docs.google.com/presentation/d/1zjbbOASxx1J9L5XrKLpjXPdZgBrY8LHTio4kXWsT__M/edit?usp=sharing
 
 ## How to Run
